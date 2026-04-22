@@ -4,4 +4,4 @@
 #### titulo 4
 ##### titulo 5
 ###### 6
-Repositório destinado ao estudo e prática de versionamento de código utilizando 'Git' e 'GitHub', abordando conceitos como commit, branches, merges e noas práticas
+Repositório destinado ao estudo e prática de versionamento de código utilizando `Git` e `GitHub`, abordando conceitos como commit, branches, merges e noas práticas
